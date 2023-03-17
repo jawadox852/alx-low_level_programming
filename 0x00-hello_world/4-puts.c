@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - this the main function
+ * main - print
  *
  * Return: always 0
  */
